@@ -19,7 +19,7 @@ function preload(){
     garden=loadImage("Garden.png")
     livingRoom=loadImage("Living Room.png")
     viewFood_img=loadImage("Food Stock.png")
-    viewSchedule_img=loadImage("dogvaccination.png")
+    viewSchedule_img=loadImage("dogVaccination.png")
     Inject_img=loadImage("Vaccination.jpg")
     //sadDog=loadImage("")
 }
